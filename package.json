@@ -1,0 +1,18 @@
+{
+  "name": "simple_calculator_program_sultan-withcode",
+  "version": "1.0.0",
+  "description": "Simple Calculator Program - Sultan A straightforward calculator application built using [programming language(TypeScript,JavaScript) used], designed to perform basic arithmetic operations. This project is ideal for beginners to learn and understand the fundamentals of creating a functional calculator.  Features -Addition, subtraction, multiplication, and division operations -User-friendly interface -Error handling for invalid inputs -Clean and modular code structure",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
